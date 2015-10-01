@@ -12,7 +12,7 @@ import view.VisualSegment;
  * seguimento de texto visual, animação do seguimento.
  *
  * @author Yan Kaic
- * @author Carlos Hatus
+ * @author Carlos Hatus boco
  */
 public class NewJFrame extends javax.swing.JFrame {
 
