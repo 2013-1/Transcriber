@@ -21,6 +21,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     /**
      * Creates new form NewJFrame
+     * Carlos é um bocó
      */
     public NewJFrame() {
         segment = new Segment(new Duration(100));
