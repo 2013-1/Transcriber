@@ -12,7 +12,6 @@ import view.VisualSegment;
  * seguimento de texto visual, animação do seguimento.
  *
  * @author Yan Kaic
- * @author Carlos Hatus boco
  */
 public class NewJFrame extends javax.swing.JFrame {
 
@@ -21,7 +20,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     /**
      * Creates new form NewJFrame
-     * Carlos é um bocó
+     * Agora eu posso criar qualquer coisa
      */
     public NewJFrame() {
         segment = new Segment(new Duration(100));
